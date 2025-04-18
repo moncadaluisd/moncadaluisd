@@ -1,8 +1,8 @@
 ## Hi There, I'm Luis Moncada 👋
 
-- I'm passionate about learning new things, building new projects, resolving problems, and creating strategies to improve my productivity.
+Hi, I'm Luis Moncada, a passionate full-stack software developer originally from Venezuela, now based in New York. As an immigrant, I've embraced the challenge of building a career in the U.S. tech industry, constantly learning and growing to become a better version of myself.
 
-- Currently I'm working as a software developer resolving diferents problems using angular 👨🏻‍💻.
+I love solving problems through code and turning ideas into reality. Whether it's optimizing workflows, creating seamless user experiences, or architecting scalable systems, I thrive on challenges. I also enjoy working with diverse teams and leveraging my bilingual and bicultural background to communicate effectively and collaborate across different perspectives.
 
 ## ✅ Some technologies I use
 
